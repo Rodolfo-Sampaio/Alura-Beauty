@@ -42,7 +42,7 @@ Veja nosso em 🚩[Alura Beauty](https://alura-beauty.vercel.app/)
 [Ana Beatriz Moura](https://github.com/beatrizmouradev)
 <br>
 <br>
-### "Oi, explorador de binários! 🌌 Agradeço pela visita no meu playground de códigos. Se a vibe foi boa, que tal um "Quantum Leap" nessa jornada? Aperta o [`Follow`](https://github.com/Rodolfo-Sampaio) e vem desbravar o universo do código comigo. Até mais, que a matriz dos algoritmos esteja do seu lado! 🚀👾"
+#### Obrigado por visitar meu Git. Se você der um [`Follow`](https://github.com/Rodolfo-Sampaio), ficarei feliz em retribuir!🚀💻
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3e8bff&height=120&section=footer"/>
